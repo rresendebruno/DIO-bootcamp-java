@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class ex07 {
   public static void main(String[] args) {
+    // Escreva um programa que leia 10 números digitados pelo usuário e exiba a soma
+    // deles.
+
     Scanner scanner = new Scanner(System.in);
 
     int[] numeros = new int[10];

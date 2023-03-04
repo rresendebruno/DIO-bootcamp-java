@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class ex06 {
   public static void main(String[] args) {
+    // Escreva um programa que exiba a tabuada de multiplicação de um número
+    // específico digitado pelo usuário.
+
     Scanner scanner = new Scanner(System.in);
 
     System.out.print("Digite um número para exibir a tabuada: ");
