@@ -6,6 +6,22 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ex14",
+      "request": "launch",
+      "mainClass": "ex14",
+      "projectName": "lista-exercicios-estrutura-de-repeticao_a98afb33",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
+      "name": "ex13",
+      "request": "launch",
+      "mainClass": "ex13",
+      "projectName": "lista-exercicios-estrutura-de-repeticao_a98afb33",
+      "console": "integratedTerminal"
+    },
+    {
+      "type": "java",
       "name": "ex12",
       "request": "launch",
       "mainClass": "ex12",
